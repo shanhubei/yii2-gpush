@@ -3,7 +3,7 @@ namespace shanhubei\gpush\request\push;
 
 use shanhubei\gpush\request\push\ios\GTIos;
 use shanhubei\gpush\request\push\android\GTAndroid;
-
+use shanhubei\gpush\request\GTApiRequest;
 class GTPushChannel extends GTApiRequest
 {
     /**

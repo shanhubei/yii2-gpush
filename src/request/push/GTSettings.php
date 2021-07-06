@@ -2,7 +2,7 @@
 namespace shanhubei\gpush\request\push;
 
 use shanhubei\gpush\request\push\GTStrategy;
-
+use shanhubei\gpush\request\GTApiRequest;
 class GTSettings extends GTApiRequest
 {
     /**

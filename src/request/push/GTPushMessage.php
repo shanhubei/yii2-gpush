@@ -3,6 +3,7 @@ namespace shanhubei\gpush\request\push;
 
 use shanhubei\gpush\request\push\GTRevoke;
 use shanhubei\gpush\request\push\GTNotification;
+use shanhubei\gpush\request\GTApiRequest;
 
 class GTPushMessage extends GTApiRequest
 {

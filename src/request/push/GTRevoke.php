@@ -1,6 +1,6 @@
 <?php
 namespace shanhubei\gpush\request\push;
-
+use shanhubei\gpush\request\GTApiRequest;
 class GTRevoke extends GTApiRequest
 {
     /**

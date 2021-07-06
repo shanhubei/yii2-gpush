@@ -1,6 +1,7 @@
 <?php
 namespace shanhubei\gpush;
 
+use shanhubei\gpush\utils\GTHttpManager;
 class GTBaseApi
 {
     protected $gtClient;

@@ -1,6 +1,6 @@
 <?php
 namespace shanhubei\gpush\request\push\ios;
-
+use shanhubei\gpush\request\GTApiRequest;
 class GTAlert extends GTApiRequest
 {
     /**

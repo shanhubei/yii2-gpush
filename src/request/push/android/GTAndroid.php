@@ -2,6 +2,7 @@
 namespace shanhubei\gpush\request\push\android;
 
 use shanhubei\gpush\request\push\android\GTUps;
+use shanhubei\gpush\request\GTApiRequest;
 
 class GTAndroid extends GTApiRequest
 {

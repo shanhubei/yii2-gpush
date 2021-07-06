@@ -2,7 +2,7 @@
 namespace shanhubei\gpush\request\push\android;
 
 use shanhubei\gpush\request\push\android\GTThirdNotification;
-
+use shanhubei\gpush\request\GTApiRequest;
 class GTUps extends GTApiRequest
 {
     /**

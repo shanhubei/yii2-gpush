@@ -1,6 +1,6 @@
 <?php
 namespace shanhubei\gpush\request\push;
-
+use shanhubei\gpush\request\GTApiRequest;
 class GTStrategy extends GTApiRequest
 {
     //表示该消息在用户在线时推送个推通道，用户离线时推送厂商通道;

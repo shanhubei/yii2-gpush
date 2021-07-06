@@ -2,7 +2,7 @@
 namespace shanhubei\gpush\request\push;
 
 use shanhubei\gpush\request\push\GTPushRequest;
-
+use shanhubei\gpush\request\GTApiRequest;
 class GTPushBatchRequest extends GTApiRequest {
 
     private $isAsync;

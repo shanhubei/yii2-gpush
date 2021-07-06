@@ -9,9 +9,7 @@ use shanhubei\gpush\request\user\GTAliasRequest;
 use shanhubei\gpush\request\user\GTTagSetRequest;
 use shanhubei\gpush\request\user\GTBadgeSetRequest;
 use shanhubei\gpush\request\user\GTUserQueryRequest;
-use shanhubei\gpush\request\user\GTUserQueryRequest;
 use shanhubei\gpush\request\user\GTTagBatchSetRequest;
-use shanhubei\gpush\request\push\GTPushRequest;
 use shanhubei\gpush\request\push\GTPushBatchRequest;
 use shanhubei\gpush\request\push\GTAudienceRequest;
 use shanhubei\gpush\request\push\GTSettings;
@@ -28,12 +26,8 @@ use shanhubei\gpush\request\push\android\GTThirdNotification;
 use shanhubei\gpush\request\push\GTCondition;
 use shanhubei\gpush\request\push\ios\GTMultimedia;
 use shanhubei\gpush\request\push\GTPushRequest;
-use shanhubei\gpush\request\push\GTPushBatchRequest;
-use shanhubei\gpush\request\push\GTAudienceRequest;
-use shanhubei\gpush\request\push\GTCondition;
 use shanhubei\gpush\GTPushApi;
 use shanhubei\gpush\GTStatisticsApi;
-use shanhubei\gpush\GTPushApi;
 use shanhubei\gpush\GTUserApi;
 
 /**

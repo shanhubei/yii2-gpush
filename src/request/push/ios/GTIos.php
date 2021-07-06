@@ -4,7 +4,7 @@ namespace shanhubei\gpush\request\push\ios;
 
 use shanhubei\gpush\request\push\ios\GTAps;
 use shanhubei\gpush\request\push\ios\GTMultimedia;
-
+use shanhubei\gpush\request\GTApiRequest;
 class GTIos extends GTApiRequest
 {
     /**

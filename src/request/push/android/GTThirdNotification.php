@@ -1,6 +1,7 @@
 <?php
 namespace shanhubei\gpush\request\push\android;
 
+use shanhubei\gpush\request\GTApiRequest;
 class GTThirdNotification extends GTApiRequest
 {
     const CLICK_TYPE_INTENT = "intent";

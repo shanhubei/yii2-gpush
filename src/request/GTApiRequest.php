@@ -1,6 +1,6 @@
 <?php
 namespace shanhubei\gpush\request;
-
+use shanhubei\gpush\request\GTApiRequest;
 class GTApiRequest{
 
     //api参数集合

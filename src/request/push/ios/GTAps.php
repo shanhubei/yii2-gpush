@@ -1,9 +1,8 @@
 <?php
 namespace shanhubei\gpush\request\push\ios;
 
-require_once(dirname(__FILE__) . '/' . 'GTAlert.php');
 use shanhubei\gpush\request\push\ios\GTAlert;
-
+use shanhubei\gpush\request\GTApiRequest;
 class GTAps extends GTApiRequest
 {
     /**

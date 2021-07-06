@@ -1,3 +1,5 @@
+yii2 个推 2021 php SDK
+
 shanhubei/gpush
 ===============
 getui Push API PHP Client
@@ -21,11 +23,3 @@ or add
 
 to the require section of your `composer.json` file.
 
-
-Usage
------
-
-Once the extension is installed, simply use it in your code by  :
-
-```php
-<?= \shanhubei\gpush\AutoloadExample::widget(); ?>```

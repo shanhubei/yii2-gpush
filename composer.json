@@ -1,0 +1,21 @@
+{
+    "name": "gpush/yii2-gpush",
+    "description": "getui Push API PHP Client",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andy",
+            "email": "2823175272@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "shanhubei\\gpush\\": "./src"
+        }
+    }
+}
